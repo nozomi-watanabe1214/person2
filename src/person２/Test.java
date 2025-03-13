@@ -24,7 +24,7 @@ public class Test {
 		 System.out.println(nanashi.age);
 		 
 		 Person hanako = new Person(17,"hanako");
-			System.out.println(hanako.name);
-			System.out.println(hanako.age);
+		 System.out.println(hanako.name);
+		 System.out.println(hanako.age);
 		}
 	}
